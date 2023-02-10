@@ -7,7 +7,7 @@
 */
 
 //*************************************************/
-//*           Clases en Javascript               */
+//*           Clases en Javascript                */
 //*************************************************/
 /*
 Evaluamos en la sección anterior cómo podemos crear métodos personalizados, pero con la función constructora tenemos la desventaja de requerir una propiedad por cada método. Esto puede generar una complejidad de declaración ante la necesidad de trabajar con objetos con un número significativo de métodos asociados. También tenemos el problema de distinguir propiedades que representan los datos del objeto, y aquellas que son comportamientos.
