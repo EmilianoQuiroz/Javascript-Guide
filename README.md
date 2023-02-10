@@ -4,8 +4,10 @@
 
 Guia de programacion en Javascript, Typescript y Angular, desde los conceptos mas basicos hasta los mas avanzados.
 
-## Temas:
 ---
+
+## Temas:
+
 ### Javascript:
 - Fundamentos de Javascript
 - Controles de flujo
@@ -27,3 +29,12 @@ Guia de programacion en Javascript, Typescript y Angular, desde los conceptos ma
 - Manejo de APIs
 - Modulos y Webpack
 - Peticiones HTTP y despliegue
+
+### Typescript:
+
+### Angular:
+
+### Patrones de Diseño Javascript Typescript:
+
+### Proyectos: 
+
