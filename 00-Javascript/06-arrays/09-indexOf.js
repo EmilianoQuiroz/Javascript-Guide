@@ -6,6 +6,9 @@
 *███─█──█─████──███─██─██─████─█──
 */
 
+//*************************************************/
+//*         Metodo IndexOf en Javascritp          */
+//*************************************************/
 /*
 El método indexOf() nos permite obtener el índice de un elemento en un array siempre y cuando éste exista en el mismo. Recibe por parámetro el elemento que queremos buscar en el array y de existir nos retorna su índice. En el caso de que el elemento no exista, nos retornará como valor un -1 que significa que no se encontró el elemento buscado:
 */
