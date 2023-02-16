@@ -56,3 +56,5 @@ const user = {
     },
     hobbies: ['Swiming', 'Programming', 'read']
 }
+
+console.log(user)
