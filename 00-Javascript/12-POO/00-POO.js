@@ -44,3 +44,15 @@ Estas clases se podrán utilizar en los programas, por ejemplo en un programa de
 
 En los lenguajes puramente orientados a objetos, tendremos únicamente clases y objetos. Las clases permitirán definir un número indeterminado de objetos, que colaboran entre ellos para resolver los problemas. Con muchos objetos de diferentes clases conseguiremos realizar las acciones que se desean implementar en la funcionalidad de la aplicación. Además, las propias aplicaciones como un todo, también serán definidas por medio de clases. Es decir, el taller de coches será una clase, de la que podremos crear el objeto taller de coches, que utilizará objetos coche, objetos de clase herramienta, objetos de clase mecánico, objetos de clase recambio, etc.
 */
+
+//*Ejemplo de Objeto Literal
+
+const user = {
+    name: 'Jhon',
+    surname: 'Doe',
+    adress: {
+        street: 'Some Street',
+        city: 'San Francisco'
+    },
+    hobbies: ['Swiming', 'Programming', 'read']
+}
